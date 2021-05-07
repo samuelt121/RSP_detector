@@ -1,2 +1,5 @@
 # RSP_detector
-Rock Scissor Paper detection. 
+Implemention of Rock Scissor Paper detection via Pytorch.
+
+RSP detection using transfer learning on very small dataset (3 images for each category).
+model used: Faster-RCNN.
