@@ -1,0 +1,10 @@
+image_name,class,bbox
+M_rock.jpg,1,"(161, 237, 226, 204)"
+M_scissors.jpg,2,"(142, 117, 266, 337)"
+M_paper.jpg,3,"(128, 145, 332, 364)"
+S_rock.jpg,1,"(307, 294, 123, 112)"
+S_scissors.jpg,2,"(275, 217, 157, 180)"
+S_paper.jpg,3,"(277, 211, 176, 190)"
+R_rock.jpg,1,"(504, 319, 110, 114)"
+R_scissors.jpg,2,"(478, 288, 129, 161)"
+R_paper.jpg,3,"(464, 285, 194, 170)"
